@@ -1,0 +1,22 @@
+.login-option{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 0 10vw;
+  width: 50vw;
+}
+
+h1{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0 0 10vh 0;
+}
+
+.login{
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

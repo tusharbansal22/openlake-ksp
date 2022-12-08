@@ -1,0 +1,18 @@
+h3{
+  text-align: center;
+}
+form{
+  padding: 1vh 10vw;
+}
+
+.signup{
+  display: flex;
+  justify-content: center;
+  min-height: 80vh;
+  flex-direction: column;
+
+}
+
+.form-group{
+  padding: 1vh 3vw;
+}
